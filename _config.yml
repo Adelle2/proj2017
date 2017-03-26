@@ -1,0 +1,4 @@
+name: My project March 2017
+markdown: redcarpet
+highlighter: rouge # or rouge or null
+exclude: ["node_modules", "gulpfile.js", "package.json"]
